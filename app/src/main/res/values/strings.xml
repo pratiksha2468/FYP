@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">proj1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_roomcontrols">ROOMCONTROLS</string>
+    <string name="title_activity_alarmsystem">ALARMSYSTEM</string>
+    <string name="title_activity_temperaturehumidity">TEMPERATUREHUMIDITY</string>
+</resources>
